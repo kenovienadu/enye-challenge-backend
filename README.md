@@ -12,7 +12,7 @@ npm install
 
 ## Usage
 
-Make a **GET** request to http://localhost:8000/api/rates.
+Make a **GET** request to https://ken-enye-backend.herokuapp.com/api/rates
 
 The following QUERY Parameters are allowed:
 
